@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## Guide
+To learn about it: https://dprogramminguniversity.com/dscvr-canvas-guides-and-tutorials/build-dscvr-canvas-booklet-app-with-nextjs/#52_Setting_Up_Development_Environment_for_DSCVR_Canvas
+
 ## Getting Started
 
 First, run the development server:
